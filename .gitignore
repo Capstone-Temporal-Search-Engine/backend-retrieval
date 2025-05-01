@@ -1,3 +1,4 @@
 retrieval_venv/
 index_files/
 .env
+venv/
